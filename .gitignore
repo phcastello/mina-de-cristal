@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Arquivos locais e resultados de verificações.
+.env
+.env.*
+!.env.example
+.pytest_cache/
+tmp/
+output/
+Thumbs.db
+.DS_Store
+
+# Material de apoio das aulas; não é necessário para executar o jogo.
+documentos/material.zip
